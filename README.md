@@ -2,7 +2,7 @@
 
 ### git clone https://github.com/tulinstyle/tuling-dd-shell.git
 
-### cd DDos-Attack
+### cd tuling-dd-shell
 
 ### chmod +x ddos-attack.py
 
